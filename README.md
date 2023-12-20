@@ -9,12 +9,13 @@ The complexity of the while loop can be expressed as O(N), where NN is the total
 The general formula for the complexity of the while loop is:
 
 ```bash
-Complexity=Total number of iterations×(Complexity per iteration)
+Complexity=Total number of iterations×(Complexity per iteration)```
 
 In this case:
 
     - The total number of iterations (NN) depends on the number of user actions.
     - The complexity per iteration primarily depends on the execution time of operations inside the loop (displaying the menu, user input, and executing an action).
+
 
  ## 2. Calculation of Complexity after Refactoring:
 
