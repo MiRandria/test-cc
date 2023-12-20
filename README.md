@@ -2,7 +2,7 @@
 
 ## 1. Calculation of Complexity for the Original Code:
 
-Suppose the total number of user actions is represented by NN.
+Suppose the total number of user actions is represented by N.
 
 The complexity of the while loop can be expressed as O(N), where NN is the total number of iterations of the while loop. Each iteration includes displaying the menu, user input, and executing an action based on the user's choice.
 
